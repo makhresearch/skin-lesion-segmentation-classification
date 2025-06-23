@@ -176,4 +176,4 @@ Let’s build better medical AI — together. 💡🩺
 ---
 
 
-📬 For questions, citations, or collaboration requests, visit the [Hugging Face Profile](https://huggingface.co/makhresearch).
+📬 For questions, citations, or collaboration requests, visit the [Linkedin Profile](https://www.linkedin.com/in/majid-khorramgah/).
